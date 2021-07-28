@@ -1,0 +1,8 @@
+[run]
+source=authentication/,todo/,
+ omit =
+    */environment/*
+    */migrations/*
+    */tests/*
+    Amazon_customers/*
+    manage.py
